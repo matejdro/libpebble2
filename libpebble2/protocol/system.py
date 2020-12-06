@@ -208,8 +208,8 @@ class Model(IntEnum):
     TintinBlue = 8
     TintinGreen = 9
     TintinPink = 10
-    SnowyBlack = 11
-    SnowyWhite = 12
+    SnowyWhite = 11
+    SnowyBlack = 12
     SnowyRed = 13
     BobbySilver = 14
     BobbyBlack = 15
